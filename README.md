@@ -23,7 +23,14 @@ Antes de começar, verifique se você atendeu aos seguintes requisitos:
 
 ## Apresentação
 
-> Buscando Dados no Site da Americanas e alocando de acordo com o preço dos produtos:
+> Buscando Dados no Site da Americanas e alocando de acordo com o preço dos produtos
+> Componentes utilizados no projeto:
+>  Reframework;
+> - Send Hotkey;
+> - Extract Data;
+> - Web Aplication;
+> - Excel.
+
 
 https://user-images.githubusercontent.com/47412575/219847050-b5aa7212-ee9c-4f1f-8c2e-476312ee11e4.mp4
 
