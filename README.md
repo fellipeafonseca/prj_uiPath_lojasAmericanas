@@ -23,7 +23,7 @@ Antes de começar, verifique se você atendeu aos seguintes requisitos:
 
 ## Apresentação
 
-> Buscando Dados no Site da Americanas e alocando de acordo com o preço dos produtos
+> Buscando Dados no Site da Americanas e alocando de acordo com o preço dos produtos.
 > Componentes utilizados no projeto:
 >  Reframework;
 > - Send Hotkey;
