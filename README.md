@@ -9,7 +9,7 @@
 ![Bitbucket open pull requests](https://img.shields.io/bitbucket/pr-raw/fellipeafonseca/README-template?style=for-the-badge)--->
 
 
-> Automação no Site da Americanas, coletando produtos e armazenando as informações de acordo com o preço.
+> Automação para pesquisas de produtos no site das Lojas Americanas, coletando produtos e armazenando as informações de acordo com o preço.
 
 
 ## 💻 Pré-requisitos
