@@ -9,7 +9,7 @@
 ![Bitbucket open pull requests](https://img.shields.io/bitbucket/pr-raw/fellipeafonseca/README-template?style=for-the-badge)--->
 
 
-> Automação para pesquisas de produtos no site das Lojas Americanas, coletando produtos e armazenando as informações de acordo com o preço.
+> Automação para pesquisar produtos no site das Lojas Americanas, coletando os dados e armazenando as informações de acordo com o preço.
 
 
 ## 💻 Pré-requisitos
@@ -25,14 +25,23 @@ Antes de começar, verifique se você atendeu aos seguintes requisitos:
 
 > Buscando Dados no Site da Americanas e alocando de acordo com o preço dos produtos.
 > Componentes utilizados no projeto:
->  Reframework;
+
 > - Send Hotkey;
 > - Extract Data;
 > - Web Aplication;
 > - Excel.
 
 
-https://user-images.githubusercontent.com/47412575/219847050-b5aa7212-ee9c-4f1f-8c2e-476312ee11e4.mp4
+https://github.com/user-attachments/assets/96c8bc8d-a9bb-40f5-b44e-8961110026e2
+
+
+Produtos em Liquidação (<180 R$). 
+
+![Liquidacao](https://github.com/user-attachments/assets/15a75458-13fa-41ff-be74-4d7888d96c2a)
+
+
+Produtos de Mercado (>=180 R$)
+![Mercado](https://github.com/user-attachments/assets/c254ce34-a031-44c4-959b-731b5885f775)
 
 <!---
 
