@@ -1,5 +1,6 @@
 {
   "name": "prj_automacao_americanas",
+  "projectId": "bc495ce2-684f-42b0-aee9-623e7851da19",
   "description": "Automação no site americanas",
   "main": "Main.xaml",
   "dependencies": {
@@ -21,6 +22,7 @@
     "isAttended": false,
     "requiresUserInteraction": true,
     "supportsPersistence": false,
+    "workflowSerialization": "DataContract",
     "excludedLoggedData": [
       "Private:*",
       "*password*"
@@ -42,7 +44,8 @@
       "ignoredFiles": []
     },
     "fileInfoCollection": [],
-    "modernBehavior": false
+    "modernBehavior": false,
+    "saveToCloud": false
   },
   "expressionLanguage": "VisualBasic",
   "entryPoints": [
